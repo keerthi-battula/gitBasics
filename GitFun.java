@@ -3,6 +3,8 @@ public static void main(String args[])
 {
 	int a=10;
 	int b=14;
-	System.out.println(a+b);
+	int c=a+b;
+	System.out.println("the sum of a and b is:");
+	System.out.println(c);
 }
 }
